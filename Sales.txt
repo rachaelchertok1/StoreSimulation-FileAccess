@@ -1,0 +1,2 @@
+SmileyPlush			3
+CookieMonster		10

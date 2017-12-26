@@ -1,0 +1,3 @@
+MerchandiseName		Price		Quantity
+RubberDuck		5.99		30
+SmileyPlush		4.99		12
